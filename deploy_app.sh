@@ -10,4 +10,5 @@ echo "INSTALL_DIR=${INSTALL_DIR}"
 [ ! -d "${INSTALL_DIR}" ] && install -d ${INSTALL_DIR}
 
 echo "Deploy to ${INSTALL_DIR}/"
-mv -f ${APP_DIST_DIR}/* ${INSTALL_DIR}
+rm -rf ./static
+cp -af ${APP_DIST_DIR}/* ${INSTALL_DIR}

@@ -3,6 +3,7 @@
 
 # Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
 _site/
+dist/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
