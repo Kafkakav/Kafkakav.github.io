@@ -1,6 +1,6 @@
 ## Kafkakav@Nozomie Lab
 Welcome to our Nozomi Lab demo site.This website is designed to highlight and demonstrate various festures.
-Visit the site [Nozomie Lab](https://kafkakav.github.io/home).
+Visit the site [Nozomie Lab](https://kafkakav.github.io/).
 
 ## Features Demonstration
 * 排隊取號
