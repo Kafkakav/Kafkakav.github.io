@@ -6,7 +6,7 @@ Visit the site [Nozomie Lab](https://kafkakav.github.io/).
 * 排隊取號
 * LIFF Login
 * vue.js + element+
-* food menu and shopping cart
+* 簡單點餐頁面
 * crisp pixel art (TBD)
 * OpenStreetMap (TDB)
 * html/div printer (TDB)
