@@ -4,9 +4,8 @@ Visit the site [Nozomie Lab](https://kafkakav.github.io/).
 
 ## Features Demonstration
 * 排隊取號
-* LIFF Login
-* vue.js + element+
+* LIFF Login x Vue.js x Element+
 * 簡單點餐頁面
-* crisp pixel art (TBD)
+* Pixel Editor(WS2811 LED)
 * OpenStreetMap (TDB)
 * html/div printer (TDB)
