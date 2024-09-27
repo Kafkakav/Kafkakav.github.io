@@ -7,5 +7,5 @@ Visit the site [Nozomie Lab](https://kafkakav.github.io/).
 * 排隊取號
 * 簡單點餐頁面
 * Pixel Editor(WS2811)
-* OpenStreetMap (TDB)
-* html/div printer (TDB)
+* OpenStreetMap (TBD)
+* html/div printer (TBD)
