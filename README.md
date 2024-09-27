@@ -3,9 +3,9 @@ Welcome to our Nozomi Lab demo site.This website is designed to highlight and de
 Visit the site [Nozomie Lab](https://kafkakav.github.io/).
 
 ## Features Demonstration
+* Vue.js x Element+
 * 排隊取號
-* LIFF Login x Vue.js x Element+
 * 簡單點餐頁面
-* Pixel Editor(WS2811 LED)
+* Pixel Editor(WS2811)
 * OpenStreetMap (TDB)
 * html/div printer (TDB)
